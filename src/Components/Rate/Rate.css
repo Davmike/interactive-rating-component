@@ -1,0 +1,72 @@
+.main {
+  padding: 2.4rem 2.4rem 3.2rem 2.4rem;
+}
+
+.text {
+  text-align: left;
+}
+
+.star-div {
+  margin-top: 2.4rem;
+  display: flex;
+  gap: 1.8rem;
+}
+
+.star-btn {
+  width: 4.2rem;
+  height: 4.2rem;
+  background: #262e38;
+  border-radius: 50%;
+  border: none;
+  color: #7c8798;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.star-btn:hover {
+  background: #fc7614;
+  color: white;
+}
+
+.img-circle {
+  background: #262e38;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  padding-top: 1.2rem;
+  text-align: center;
+}
+
+.main-text {
+  color: white;
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-top: 1.6rem;
+}
+
+.main-paragraph {
+  color: #969fad;
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin-top: 1rem;
+  line-height: 2.2rem;
+}
+
+.submit-btn {
+  margin-top: 2.4rem;
+  background: #fc7614;
+  color: white;
+  width: 27.9rem;
+  height: 4.5rem;
+  border-radius: 22.5px;
+  border: none;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1.867px;
+}
+
+.submit-btn:hover {
+  background: white;
+  color: #fc7614;
+}
